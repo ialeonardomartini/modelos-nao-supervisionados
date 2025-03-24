@@ -54,16 +54,5 @@ O projeto final representa um caso real de segmentação — uma habilidade vali
 
 ---
 
-## 🎯 Público-Alvo  
-
-Este repositório é ideal para:  
-
-✔ **Estudantes de Machine Learning** interessados em modelos não supervisionados  
-✔ **Analistas de dados** que desejam descobrir padrões em dados sem rótulos  
-✔ **Cientistas de dados** que buscam técnicas avançadas de modelagem  
-✔ **Profissionais de tecnologia** aplicando clustering em problemas do mundo real  
-
----
-
 🚀 **Vamos agrupar padrões invisíveis!**  
 Se quiser contribuir, deixar sugestões ou discutir ideias, fique à vontade para abrir uma *issue* ou um *pull request*!  
